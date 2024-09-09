@@ -1,7 +1,6 @@
-
 describe('compare the price of iphone 15', () => {
   
-  it('Search in DIGIMAP', () => {
+  it('Search in Amazon', () => {
     const products = []
 
     cy.visit('https://www.amazon.com/');
